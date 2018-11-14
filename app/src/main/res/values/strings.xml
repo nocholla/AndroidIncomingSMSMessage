@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- App -->
+    <string name="app_name">IncomingSMSMessage</string>
+
+    <!-- Text -->
+    <string name="incoming_sms_message">Incoming SMS Message</string>
+
+</resources>
