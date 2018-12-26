@@ -1,4 +1,4 @@
-# EdurekaIncomingSMSMessage
+# Android Incoming SMS Message
 ![incoming sms 1](https://user-images.githubusercontent.com/801612/50355393-617af680-0503-11e9-8e3e-a9f7dea825b9.jpeg)
 ![incoming sms 2](https://user-images.githubusercontent.com/801612/50355395-63dd5080-0503-11e9-8619-b24a8a4e20a0.jpeg)
 ![incoming sms 3](https://user-images.githubusercontent.com/801612/50355396-65a71400-0503-11e9-9e1e-895c85f807a5.jpeg)
